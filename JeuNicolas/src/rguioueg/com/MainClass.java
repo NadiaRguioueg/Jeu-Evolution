@@ -14,7 +14,7 @@ public class MainClass {
 		Menu menu = new Menu();
 		menu.showBanner();
 		System.out.println(areas[2].getCities()[1].getBuildings().get(0).getName());
-		
+		//we are on GitHub!!!
 	}
 
 	private static Area[] generateAreas() {
